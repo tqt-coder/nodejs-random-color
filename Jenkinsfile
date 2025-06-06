@@ -9,7 +9,7 @@ pipeline {
                     doGenerateSubmoduleConfigurations: false, 
                     extensions: [], 
                     submoduleCfg: [], 
-                    userRemoteConfigs: [[url: 'git@github.com:hoanglinhdigital/nodejs-random-color-temp.git']]
+                    userRemoteConfigs: [[url: 'git@github.com:tqt-coder/nodejs-random-color.git']]
                 ])
             }
         }
